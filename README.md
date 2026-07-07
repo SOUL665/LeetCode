@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUL665/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/SOUL665/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/SOUL665/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SOUL665/LeetCode/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUL665/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/SOUL665/LeetCode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
