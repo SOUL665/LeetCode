@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/SOUL665/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SOUL665/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/SOUL665/LeetCode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/SOUL665/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SOUL665/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SOUL665/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/SOUL665/LeetCode/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
