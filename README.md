@@ -73,4 +73,5 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SOUL665/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/SOUL665/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
