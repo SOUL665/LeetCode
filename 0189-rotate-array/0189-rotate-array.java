@@ -5,6 +5,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
             rotated[(i + k) % n] = nums[i];
         }
+        // Lol 
         System.arraycopy(rotated, 0, nums, 0, n);
     }
 }
