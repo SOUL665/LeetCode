@@ -54,6 +54,7 @@
 | [0012-integer-to-roman](https://github.com/SOUL665/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/SOUL665/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SOUL665/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
