@@ -117,4 +117,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/SOUL665/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
