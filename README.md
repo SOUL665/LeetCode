@@ -57,6 +57,7 @@
 | [0012-integer-to-roman](https://github.com/SOUL665/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/SOUL665/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/SOUL665/LeetCode/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/SOUL665/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SOUL665/LeetCode/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SOUL665/LeetCode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
 ## Database
 |  |
