@@ -45,6 +45,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOUL665/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SOUL665/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/SOUL665/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/SOUL665/LeetCode/tree/master/0541-reverse-string-ii) |
 ## String Matching
 |  |
@@ -116,11 +117,13 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/SOUL665/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/SOUL665/LeetCode/tree/master/0036-valid-sudoku) |
+| [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
@@ -134,6 +137,7 @@
 | [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SOUL665/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 ## Database
 |  |
 | ------- |
