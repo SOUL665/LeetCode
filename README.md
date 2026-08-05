@@ -44,6 +44,7 @@
 | [0014-longest-common-prefix](https://github.com/SOUL665/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOUL665/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SOUL665/LeetCode/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/SOUL665/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/SOUL665/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/SOUL665/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SOUL665/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SOUL665/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/SOUL665/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 | [0051-n-queens](https://github.com/SOUL665/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SOUL665/LeetCode/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
+| [0131-palindrome-partitioning](https://github.com/SOUL665/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
