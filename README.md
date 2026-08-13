@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/SOUL665/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SOUL665/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/SOUL665/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/SOUL665/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/SOUL665/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SOUL665/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SOUL665/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
 | [0131-palindrome-partitioning](https://github.com/SOUL665/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SOUL665/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
