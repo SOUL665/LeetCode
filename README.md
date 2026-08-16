@@ -46,6 +46,7 @@
 | [0014-longest-common-prefix](https://github.com/SOUL665/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOUL665/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SOUL665/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/SOUL665/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/SOUL665/LeetCode/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/SOUL665/LeetCode/tree/master/0344-reverse-string) |
@@ -68,6 +69,7 @@
 | [0012-integer-to-roman](https://github.com/SOUL665/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/SOUL665/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/SOUL665/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/SOUL665/LeetCode/tree/master/0224-basic-calculator) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SOUL665/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SOUL665/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
@@ -158,4 +161,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SOUL665/LeetCode/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
