@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/SOUL665/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/SOUL665/LeetCode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SOUL665/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SOUL665/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SOUL665/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SOUL665/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SOUL665/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/SOUL665/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SOUL665/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SOUL665/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Backtracking
 |  |
 | ------- |
@@ -182,4 +185,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SOUL665/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/SOUL665/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
