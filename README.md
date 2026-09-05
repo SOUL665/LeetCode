@@ -33,6 +33,7 @@
 | [0031-next-permutation](https://github.com/SOUL665/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SOUL665/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SOUL665/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/SOUL665/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -84,6 +85,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/SOUL665/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/SOUL665/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SOUL665/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/SOUL665/LeetCode/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
