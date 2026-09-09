@@ -79,6 +79,7 @@
 | [0224-basic-calculator](https://github.com/SOUL665/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SOUL665/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SOUL665/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Linked List
 |  |
@@ -98,6 +99,7 @@
 | [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SOUL665/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SOUL665/LeetCode/tree/master/0342-power-of-four) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -168,6 +170,7 @@
 | [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/SOUL665/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/SOUL665/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 ## Database
 |  |
