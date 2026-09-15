@@ -23,6 +23,6 @@ public class Solution {
             pB = (pB == null) ? headA : pB.next;
         }
 
-        return pB;
+        return pA;
     }
 }
