@@ -37,6 +37,7 @@
 | [0061-rotate-list](https://github.com/SOUL665/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/SOUL665/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SOUL665/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SOUL665/LeetCode/tree/master/0344-reverse-string) |
@@ -92,6 +93,7 @@
 | [0061-rotate-list](https://github.com/SOUL665/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SOUL665/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/SOUL665/LeetCode/tree/master/0086-partition-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SOUL665/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -154,6 +156,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/SOUL665/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/SOUL665/LeetCode/tree/master/0036-valid-sudoku) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SOUL665/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 | [0697-degree-of-an-array](https://github.com/SOUL665/LeetCode/tree/master/0697-degree-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
