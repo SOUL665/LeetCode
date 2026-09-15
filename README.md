@@ -95,6 +95,7 @@
 | [0086-partition-list](https://github.com/SOUL665/LeetCode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOUL665/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
