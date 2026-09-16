@@ -24,6 +24,7 @@
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/SOUL665/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/SOUL665/LeetCode/tree/master/0704-binary-search) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SOUL665/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SOUL665/LeetCode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/SOUL665/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
