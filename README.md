@@ -76,6 +76,7 @@
 | [0009-palindrome-number](https://github.com/SOUL665/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SOUL665/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/SOUL665/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/SOUL665/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SOUL665/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SOUL665/LeetCode/tree/master/0069-sqrtx) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SOUL665/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SOUL665/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/SOUL665/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/SOUL665/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
