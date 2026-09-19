@@ -26,6 +26,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/SOUL665/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/SOUL665/LeetCode/tree/master/0704-binary-search) |
+| [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -197,10 +198,12 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SOUL665/LeetCode/tree/master/0036-valid-sudoku) |
+| [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
+| [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Tree
 |  |
 | ------- |
