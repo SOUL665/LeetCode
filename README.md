@@ -99,6 +99,7 @@
 | [0326-power-of-three](https://github.com/SOUL665/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SOUL665/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2413-smallest-even-multiple](https://github.com/SOUL665/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Linked List
 |  |
 | ------- |
@@ -256,4 +257,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SOUL665/LeetCode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/SOUL665/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
