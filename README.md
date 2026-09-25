@@ -33,6 +33,7 @@
 | [0704-binary-search](https://github.com/SOUL665/LeetCode/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -189,6 +190,7 @@
 | [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 | [0697-degree-of-an-array](https://github.com/SOUL665/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -200,6 +202,7 @@
 | [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
