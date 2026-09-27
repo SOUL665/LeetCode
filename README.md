@@ -27,6 +27,7 @@
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SOUL665/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/SOUL665/LeetCode/tree/master/0283-move-zeroes) |
+| [0330-patching-array](https://github.com/SOUL665/LeetCode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/SOUL665/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SOUL665/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
+| [0330-patching-array](https://github.com/SOUL665/LeetCode/tree/master/0330-patching-array) |
 ## Hash Table
 |  |
 | ------- |
