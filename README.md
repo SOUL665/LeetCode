@@ -29,6 +29,7 @@
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SOUL665/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/SOUL665/LeetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/SOUL665/LeetCode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/SOUL665/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -150,6 +151,7 @@
 | [0069-sqrtx](https://github.com/SOUL665/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOUL665/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/SOUL665/LeetCode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/SOUL665/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/SOUL665/LeetCode/tree/master/0704-binary-search) |
@@ -170,6 +172,7 @@
 | [0053-maximum-subarray](https://github.com/SOUL665/LeetCode/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/SOUL665/LeetCode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/SOUL665/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0639-decode-ways-ii](https://github.com/SOUL665/LeetCode/tree/master/0639-decode-ways-ii) |
 ## Stack
 |  |
@@ -355,4 +358,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/SOUL665/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SOUL665/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
