@@ -40,6 +40,7 @@
 | [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@
 | [0639-decode-ways-ii](https://github.com/SOUL665/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0709-to-lower-case](https://github.com/SOUL665/LeetCode/tree/master/0709-to-lower-case) |
 | [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## String Matching
 |  |
 | ------- |
