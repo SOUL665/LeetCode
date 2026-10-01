@@ -87,6 +87,7 @@
 | [0541-reverse-string-ii](https://github.com/SOUL665/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0639-decode-ways-ii](https://github.com/SOUL665/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0709-to-lower-case](https://github.com/SOUL665/LeetCode/tree/master/0709-to-lower-case) |
+| [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
 ## String Matching
 |  |
 | ------- |
