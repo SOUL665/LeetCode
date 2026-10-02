@@ -76,6 +76,7 @@
 | [0012-integer-to-roman](https://github.com/SOUL665/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/SOUL665/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SOUL665/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/SOUL665/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOUL665/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SOUL665/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SOUL665/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SOUL665/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/SOUL665/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SOUL665/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SOUL665/LeetCode/tree/master/0053-maximum-subarray) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SOUL665/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/SOUL665/LeetCode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/SOUL665/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SOUL665/LeetCode/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
@@ -366,4 +369,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SOUL665/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
