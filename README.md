@@ -20,6 +20,7 @@
 | [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/SOUL665/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SOUL665/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/SOUL665/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/SOUL665/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SOUL665/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/SOUL665/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SOUL665/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/SOUL665/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0332-reconstruct-itinerary](https://github.com/SOUL665/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -343,6 +345,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SOUL665/LeetCode/tree/master/0056-merge-intervals) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
