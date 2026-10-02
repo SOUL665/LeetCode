@@ -34,6 +34,7 @@
 | [0330-patching-array](https://github.com/SOUL665/LeetCode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/SOUL665/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0529-minesweeper](https://github.com/SOUL665/LeetCode/tree/master/0529-minesweeper) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/SOUL665/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -266,6 +267,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/SOUL665/LeetCode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/SOUL665/LeetCode/tree/master/0200-number-of-islands) |
+| [0529-minesweeper](https://github.com/SOUL665/LeetCode/tree/master/0529-minesweeper) |
 | [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Simulation
 |  |
@@ -285,6 +287,7 @@
 | [0100-same-tree](https://github.com/SOUL665/LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/SOUL665/LeetCode/tree/master/0200-number-of-islands) |
 | [0332-reconstruct-itinerary](https://github.com/SOUL665/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [0529-minesweeper](https://github.com/SOUL665/LeetCode/tree/master/0529-minesweeper) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SOUL665/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -305,6 +308,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/SOUL665/LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/SOUL665/LeetCode/tree/master/0200-number-of-islands) |
+| [0529-minesweeper](https://github.com/SOUL665/LeetCode/tree/master/0529-minesweeper) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SOUL665/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Union-Find
 |  |
