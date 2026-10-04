@@ -95,6 +95,7 @@
 | [0541-reverse-string-ii](https://github.com/SOUL665/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0639-decode-ways-ii](https://github.com/SOUL665/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0709-to-lower-case](https://github.com/SOUL665/LeetCode/tree/master/0709-to-lower-case) |
+| [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
 | [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## String Matching
@@ -195,6 +196,7 @@
 | [0224-basic-calculator](https://github.com/SOUL665/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/SOUL665/LeetCode/tree/master/0402-remove-k-digits) |
+| [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -231,6 +233,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SOUL665/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SOUL665/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/SOUL665/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -247,6 +250,7 @@
 | [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SOUL665/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
