@@ -96,6 +96,7 @@
 | [0639-decode-ways-ii](https://github.com/SOUL665/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0709-to-lower-case](https://github.com/SOUL665/LeetCode/tree/master/0709-to-lower-case) |
 | [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
+| [0761-special-binary-string](https://github.com/SOUL665/LeetCode/tree/master/0761-special-binary-string) |
 | [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 ## String Matching
@@ -174,6 +175,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SOUL665/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SOUL665/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SOUL665/LeetCode/tree/master/0053-maximum-subarray) |
+| [0761-special-binary-string](https://github.com/SOUL665/LeetCode/tree/master/0761-special-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SOUL665/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
+| [0761-special-binary-string](https://github.com/SOUL665/LeetCode/tree/master/0761-special-binary-string) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
