@@ -32,6 +32,7 @@
 | [0200-number-of-islands](https://github.com/SOUL665/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/SOUL665/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0321-create-maximum-number](https://github.com/SOUL665/LeetCode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/SOUL665/LeetCode/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/SOUL665/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +69,7 @@
 | [0202-happy-number](https://github.com/SOUL665/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SOUL665/LeetCode/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/SOUL665/LeetCode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/SOUL665/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/SOUL665/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -201,6 +203,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SOUL665/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/SOUL665/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/SOUL665/LeetCode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/SOUL665/LeetCode/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
 ## Monotonic Stack
@@ -208,6 +211,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SOUL665/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SOUL665/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0321-create-maximum-number](https://github.com/SOUL665/LeetCode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/SOUL665/LeetCode/tree/master/0402-remove-k-digits) |
 ## Backtracking
 |  |
@@ -224,6 +228,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SOUL665/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
+| [0321-create-maximum-number](https://github.com/SOUL665/LeetCode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/SOUL665/LeetCode/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/SOUL665/LeetCode/tree/master/0402-remove-k-digits) |
 ## Hash Table
