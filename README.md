@@ -30,6 +30,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOUL665/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SOUL665/LeetCode/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/SOUL665/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/SOUL665/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/SOUL665/LeetCode/tree/master/0321-create-maximum-number) |
@@ -239,6 +240,7 @@
 | [0036-valid-sudoku](https://github.com/SOUL665/LeetCode/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOUL665/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SOUL665/LeetCode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/SOUL665/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SOUL665/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -257,6 +259,7 @@
 | [0018-4sum](https://github.com/SOUL665/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SOUL665/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/SOUL665/LeetCode/tree/master/0229-majority-element-ii) |
 | [0332-reconstruct-itinerary](https://github.com/SOUL665/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
@@ -373,6 +376,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SOUL665/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SOUL665/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
@@ -415,4 +419,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SOUL665/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/SOUL665/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
