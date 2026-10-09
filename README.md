@@ -38,6 +38,7 @@
 | [0332-reconstruct-itinerary](https://github.com/SOUL665/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SOUL665/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0485-max-consecutive-ones](https://github.com/SOUL665/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0529-minesweeper](https://github.com/SOUL665/LeetCode/tree/master/0529-minesweeper) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
