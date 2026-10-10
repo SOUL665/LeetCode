@@ -137,6 +137,7 @@
 | [0231-power-of-two](https://github.com/SOUL665/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SOUL665/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SOUL665/LeetCode/tree/master/0342-power-of-four) |
+| [0507-perfect-number](https://github.com/SOUL665/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2413-smallest-even-multiple](https://github.com/SOUL665/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Linked List
