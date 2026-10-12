@@ -108,6 +108,7 @@
 | [0709-to-lower-case](https://github.com/SOUL665/LeetCode/tree/master/0709-to-lower-case) |
 | [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
 | [0761-special-binary-string](https://github.com/SOUL665/LeetCode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/SOUL665/LeetCode/tree/master/0796-rotate-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SOUL665/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOUL665/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/SOUL665/LeetCode/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
