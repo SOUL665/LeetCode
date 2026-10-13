@@ -114,6 +114,7 @@
 | [0796-rotate-string](https://github.com/SOUL665/LeetCode/tree/master/0796-rotate-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SOUL665/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0925-long-pressed-name](https://github.com/SOUL665/LeetCode/tree/master/0925-long-pressed-name) |
+| [1668-maximum-repeating-substring](https://github.com/SOUL665/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOUL665/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOUL665/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/SOUL665/LeetCode/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/SOUL665/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0639-decode-ways-ii](https://github.com/SOUL665/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SOUL665/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [1668-maximum-repeating-substring](https://github.com/SOUL665/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
