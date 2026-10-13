@@ -52,6 +52,7 @@
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOUL665/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SOUL665/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOUL665/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String Matching
 |  |
 | ------- |
