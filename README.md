@@ -82,6 +82,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/SOUL665/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SOUL665/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0925-long-pressed-name](https://github.com/SOUL665/LeetCode/tree/master/0925-long-pressed-name) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0761-special-binary-string](https://github.com/SOUL665/LeetCode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/SOUL665/LeetCode/tree/master/0796-rotate-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SOUL665/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0925-long-pressed-name](https://github.com/SOUL665/LeetCode/tree/master/0925-long-pressed-name) |
 | [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOUL665/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
