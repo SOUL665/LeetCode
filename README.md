@@ -50,6 +50,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/SOUL665/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/SOUL665/LeetCode/tree/master/0704-binary-search) |
+| [0809-expressive-words](https://github.com/SOUL665/LeetCode/tree/master/0809-expressive-words) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
@@ -87,6 +88,7 @@
 | [0457-circular-array-loop](https://github.com/SOUL665/LeetCode/tree/master/0457-circular-array-loop) |
 | [0541-reverse-string-ii](https://github.com/SOUL665/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SOUL665/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0809-expressive-words](https://github.com/SOUL665/LeetCode/tree/master/0809-expressive-words) |
 | [0925-long-pressed-name](https://github.com/SOUL665/LeetCode/tree/master/0925-long-pressed-name) |
 ## String
 |  |
@@ -117,6 +119,7 @@
 | [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
 | [0761-special-binary-string](https://github.com/SOUL665/LeetCode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/SOUL665/LeetCode/tree/master/0796-rotate-string) |
+| [0809-expressive-words](https://github.com/SOUL665/LeetCode/tree/master/0809-expressive-words) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SOUL665/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0925-long-pressed-name](https://github.com/SOUL665/LeetCode/tree/master/0925-long-pressed-name) |
 | [1668-maximum-repeating-substring](https://github.com/SOUL665/LeetCode/tree/master/1668-maximum-repeating-substring) |
