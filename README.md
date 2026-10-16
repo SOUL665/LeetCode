@@ -58,6 +58,7 @@
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOUL665/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -159,6 +160,7 @@
 | [0342-power-of-four](https://github.com/SOUL665/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/SOUL665/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2413-smallest-even-multiple](https://github.com/SOUL665/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Linked List
 |  |
@@ -265,6 +267,7 @@
 | [0402-remove-k-digits](https://github.com/SOUL665/LeetCode/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SOUL665/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Hash Table
 |  |
 | ------- |
@@ -310,6 +313,7 @@
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -489,4 +493,8 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/SOUL665/LeetCode/tree/master/0480-sliding-window-median) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
