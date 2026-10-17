@@ -44,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SOUL665/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0457-circular-array-loop](https://github.com/SOUL665/LeetCode/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/SOUL665/LeetCode/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/SOUL665/LeetCode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/SOUL665/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0529-minesweeper](https://github.com/SOUL665/LeetCode/tree/master/0529-minesweeper) |
@@ -91,6 +92,7 @@
 | [0344-reverse-string](https://github.com/SOUL665/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/SOUL665/LeetCode/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/SOUL665/LeetCode/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/SOUL665/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SOUL665/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0809-expressive-words](https://github.com/SOUL665/LeetCode/tree/master/0809-expressive-words) |
@@ -206,6 +208,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SOUL665/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0374-guess-number-higher-or-lower](https://github.com/SOUL665/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0475-heaters](https://github.com/SOUL665/LeetCode/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/SOUL665/LeetCode/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
@@ -309,6 +312,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/SOUL665/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SOUL665/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0475-heaters](https://github.com/SOUL665/LeetCode/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SOUL665/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
