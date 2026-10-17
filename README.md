@@ -55,6 +55,7 @@
 | [0704-binary-search](https://github.com/SOUL665/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0809-expressive-words](https://github.com/SOUL665/LeetCode/tree/master/0809-expressive-words) |
+| [0826-most-profit-assigning-work](https://github.com/SOUL665/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
@@ -97,6 +98,7 @@
 | [0541-reverse-string-ii](https://github.com/SOUL665/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SOUL665/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0809-expressive-words](https://github.com/SOUL665/LeetCode/tree/master/0809-expressive-words) |
+| [0826-most-profit-assigning-work](https://github.com/SOUL665/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0925-long-pressed-name](https://github.com/SOUL665/LeetCode/tree/master/0925-long-pressed-name) |
 ## String
 |  |
@@ -212,6 +214,7 @@
 | [0475-heaters](https://github.com/SOUL665/LeetCode/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/SOUL665/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0826-most-profit-assigning-work](https://github.com/SOUL665/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 ## Divide and Conquer
 |  |
@@ -275,6 +278,7 @@
 | [0330-patching-array](https://github.com/SOUL665/LeetCode/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/SOUL665/LeetCode/tree/master/0402-remove-k-digits) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SOUL665/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0826-most-profit-assigning-work](https://github.com/SOUL665/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SOUL665/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -319,6 +323,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SOUL665/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
 | [0761-special-binary-string](https://github.com/SOUL665/LeetCode/tree/master/0761-special-binary-string) |
+| [0826-most-profit-assigning-work](https://github.com/SOUL665/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
