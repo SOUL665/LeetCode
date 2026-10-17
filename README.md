@@ -31,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SOUL665/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SOUL665/LeetCode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOUL665/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/SOUL665/LeetCode/tree/master/0200-number-of-islands) |
@@ -198,6 +199,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SOUL665/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SOUL665/LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOUL665/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/SOUL665/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/SOUL665/LeetCode/tree/master/0300-longest-increasing-subsequence) |
