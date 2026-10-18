@@ -70,6 +70,7 @@
 | [1847-closest-room](https://github.com/SOUL665/LeetCode/tree/master/1847-closest-room) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOUL665/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1539-kth-missing-positive-number](https://github.com/SOUL665/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1847-closest-room](https://github.com/SOUL665/LeetCode/tree/master/1847-closest-room) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -508,6 +510,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SOUL665/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/SOUL665/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Ordered Set
 |  |
 | ------- |
@@ -519,6 +522,7 @@
 | [0480-sliding-window-median](https://github.com/SOUL665/LeetCode/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SOUL665/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Treap
 |  |
 | ------- |
