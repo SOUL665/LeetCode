@@ -116,6 +116,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SOUL665/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SOUL665/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SOUL665/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SOUL665/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/SOUL665/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/SOUL665/LeetCode/tree/master/0097-interleaving-string) |
@@ -297,6 +298,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/SOUL665/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SOUL665/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SOUL665/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/SOUL665/LeetCode/tree/master/0036-valid-sudoku) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOUL665/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SOUL665/LeetCode/tree/master/0202-happy-number) |
@@ -519,6 +521,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SOUL665/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0480-sliding-window-median](https://github.com/SOUL665/LeetCode/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SOUL665/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/0713-subarray-product-less-than-k) |
