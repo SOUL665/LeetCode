@@ -64,6 +64,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/SOUL665/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1470-shuffle-the-array](https://github.com/SOUL665/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SOUL665/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/SOUL665/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
