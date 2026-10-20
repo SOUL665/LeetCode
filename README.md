@@ -68,6 +68,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1847-closest-room](https://github.com/SOUL665/LeetCode/tree/master/1847-closest-room) |
+| [1920-build-array-from-permutation](https://github.com/SOUL665/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOUL665/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -381,6 +382,7 @@
 | [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/SOUL665/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [1920-build-array-from-permutation](https://github.com/SOUL665/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Tree
 |  |
 | ------- |
