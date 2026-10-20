@@ -68,6 +68,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/SOUL665/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/SOUL665/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1732-find-the-highest-altitude](https://github.com/SOUL665/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1847-closest-room](https://github.com/SOUL665/LeetCode/tree/master/1847-closest-room) |
 | [1920-build-array-from-permutation](https://github.com/SOUL665/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -519,6 +520,7 @@
 | [0410-split-array-largest-sum](https://github.com/SOUL665/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/SOUL665/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/SOUL665/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Ordered Set
 |  |
