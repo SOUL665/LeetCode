@@ -64,6 +64,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/SOUL665/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/SOUL665/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/SOUL665/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
@@ -516,6 +517,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SOUL665/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/SOUL665/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1480-running-sum-of-1d-array](https://github.com/SOUL665/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Ordered Set
 |  |
