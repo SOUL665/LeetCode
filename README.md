@@ -62,6 +62,7 @@
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SOUL665/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/SOUL665/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -320,6 +321,7 @@
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SOUL665/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Sorting
@@ -345,6 +347,7 @@
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SOUL665/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -468,6 +471,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SOUL665/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
