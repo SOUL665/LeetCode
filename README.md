@@ -21,6 +21,7 @@
 | [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/SOUL665/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SOUL665/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SOUL665/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SOUL665/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/SOUL665/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/SOUL665/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -247,6 +248,7 @@
 | [0042-trapping-rain-water](https://github.com/SOUL665/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SOUL665/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SOUL665/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/SOUL665/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/SOUL665/LeetCode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/SOUL665/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -290,6 +292,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SOUL665/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SOUL665/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SOUL665/LeetCode/tree/master/0055-jump-game) |
 | [0321-create-maximum-number](https://github.com/SOUL665/LeetCode/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/SOUL665/LeetCode/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/SOUL665/LeetCode/tree/master/0402-remove-k-digits) |
