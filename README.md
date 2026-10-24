@@ -59,6 +59,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0809-expressive-words](https://github.com/SOUL665/LeetCode/tree/master/0809-expressive-words) |
 | [0826-most-profit-assigning-work](https://github.com/SOUL665/LeetCode/tree/master/0826-most-profit-assigning-work) |
+| [0850-rectangle-area-ii](https://github.com/SOUL665/LeetCode/tree/master/0850-rectangle-area-ii) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
@@ -536,6 +537,7 @@
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SOUL665/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0850-rectangle-area-ii](https://github.com/SOUL665/LeetCode/tree/master/0850-rectangle-area-ii) |
 | [1847-closest-room](https://github.com/SOUL665/LeetCode/tree/master/1847-closest-room) |
 ## Sliding Window
 |  |
@@ -553,4 +555,12 @@
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Segment Tree
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/SOUL665/LeetCode/tree/master/0850-rectangle-area-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [0850-rectangle-area-ii](https://github.com/SOUL665/LeetCode/tree/master/0850-rectangle-area-ii) |
 <!---LeetCode Topics End-->
