@@ -148,6 +148,7 @@
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SOUL665/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0925-long-pressed-name](https://github.com/SOUL665/LeetCode/tree/master/0925-long-pressed-name) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SOUL665/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SOUL665/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/SOUL665/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
@@ -276,6 +277,7 @@
 | [0321-create-maximum-number](https://github.com/SOUL665/LeetCode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/SOUL665/LeetCode/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/SOUL665/LeetCode/tree/master/0726-number-of-atoms) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SOUL665/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -521,6 +523,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SOUL665/LeetCode/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SOUL665/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bucket Sort
 |  |
 | ------- |
