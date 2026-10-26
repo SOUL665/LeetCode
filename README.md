@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/SOUL665/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SOUL665/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SOUL665/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/SOUL665/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SOUL665/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SOUL665/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/SOUL665/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -130,6 +131,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SOUL665/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/SOUL665/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/SOUL665/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/SOUL665/LeetCode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/SOUL665/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/SOUL665/LeetCode/tree/master/0212-word-search-ii) |
@@ -297,6 +299,7 @@
 | [0022-generate-parentheses](https://github.com/SOUL665/LeetCode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/SOUL665/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SOUL665/LeetCode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/SOUL665/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SOUL665/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SOUL665/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -398,6 +401,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SOUL665/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/SOUL665/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SOUL665/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SOUL665/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SOUL665/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/SOUL665/LeetCode/tree/master/0212-word-search-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/SOUL665/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -421,6 +425,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SOUL665/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SOUL665/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SOUL665/LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/SOUL665/LeetCode/tree/master/0200-number-of-islands) |
