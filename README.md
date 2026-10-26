@@ -204,6 +204,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SOUL665/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/SOUL665/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SOUL665/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/SOUL665/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOUL665/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SOUL665/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -326,6 +327,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SOUL665/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SOUL665/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/SOUL665/LeetCode/tree/master/0036-valid-sudoku) |
+| [0146-lru-cache](https://github.com/SOUL665/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOUL665/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SOUL665/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/SOUL665/LeetCode/tree/master/0229-majority-element-ii) |
@@ -583,4 +585,12 @@
 |  |
 | ------- |
 | [0850-rectangle-area-ii](https://github.com/SOUL665/LeetCode/tree/master/0850-rectangle-area-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SOUL665/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SOUL665/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
