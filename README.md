@@ -134,6 +134,7 @@
 | [0079-word-search](https://github.com/SOUL665/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/SOUL665/LeetCode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/SOUL665/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SOUL665/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0212-word-search-ii](https://github.com/SOUL665/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/SOUL665/LeetCode/tree/master/0224-basic-calculator) |
 | [0332-reconstruct-itinerary](https://github.com/SOUL665/LeetCode/tree/master/0332-reconstruct-itinerary) |
@@ -182,6 +183,7 @@
 | [0067-add-binary](https://github.com/SOUL665/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SOUL665/LeetCode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/SOUL665/LeetCode/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SOUL665/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/SOUL665/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SOUL665/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/SOUL665/LeetCode/tree/master/0224-basic-calculator) |
@@ -329,6 +331,7 @@
 | [0036-valid-sudoku](https://github.com/SOUL665/LeetCode/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/SOUL665/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SOUL665/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SOUL665/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/SOUL665/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/SOUL665/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SOUL665/LeetCode/tree/master/0349-intersection-of-two-arrays) |
