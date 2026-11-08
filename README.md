@@ -158,6 +158,7 @@
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SOUL665/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SOUL665/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SOUL665/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1556-thousand-separator](https://github.com/SOUL665/LeetCode/tree/master/1556-thousand-separator) |
 | [1668-maximum-repeating-substring](https://github.com/SOUL665/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
