@@ -68,6 +68,7 @@
 | [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
+| [1146-snapshot-array](https://github.com/SOUL665/LeetCode/tree/master/1146-snapshot-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SOUL665/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SOUL665/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -250,6 +251,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0826-most-profit-assigning-work](https://github.com/SOUL665/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1146-snapshot-array](https://github.com/SOUL665/LeetCode/tree/master/1146-snapshot-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SOUL665/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1539-kth-missing-positive-number](https://github.com/SOUL665/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1847-closest-room](https://github.com/SOUL665/LeetCode/tree/master/1847-closest-room) |
@@ -352,6 +354,7 @@
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SOUL665/LeetCode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
+| [1146-snapshot-array](https://github.com/SOUL665/LeetCode/tree/master/1146-snapshot-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SOUL665/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -600,8 +603,13 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SOUL665/LeetCode/tree/master/0146-lru-cache) |
+| [1146-snapshot-array](https://github.com/SOUL665/LeetCode/tree/master/1146-snapshot-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SOUL665/LeetCode/tree/master/0146-lru-cache) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/SOUL665/LeetCode/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
