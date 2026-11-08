@@ -64,6 +64,7 @@
 | [0826-most-profit-assigning-work](https://github.com/SOUL665/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0850-rectangle-area-ii](https://github.com/SOUL665/LeetCode/tree/master/0850-rectangle-area-ii) |
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
+| [0896-monotonic-array](https://github.com/SOUL665/LeetCode/tree/master/0896-monotonic-array) |
 | [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
