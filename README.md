@@ -70,6 +70,7 @@
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1146-snapshot-array](https://github.com/SOUL665/LeetCode/tree/master/1146-snapshot-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SOUL665/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1250-check-if-it-is-a-good-array](https://github.com/SOUL665/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SOUL665/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
@@ -196,6 +197,7 @@
 | [0342-power-of-four](https://github.com/SOUL665/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/SOUL665/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUL665/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1250-check-if-it-is-a-good-array](https://github.com/SOUL665/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SOUL665/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SOUL665/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2413-smallest-even-multiple](https://github.com/SOUL665/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -481,6 +483,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/SOUL665/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [2413-smallest-even-multiple](https://github.com/SOUL665/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Graph Theory
 |  |
@@ -613,4 +616,20 @@
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/SOUL665/LeetCode/tree/master/1146-snapshot-array) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/SOUL665/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/SOUL665/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/SOUL665/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/SOUL665/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
