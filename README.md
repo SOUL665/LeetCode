@@ -165,6 +165,7 @@
 | [1678-goal-parser-interpretation](https://github.com/SOUL665/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/SOUL665/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SOUL665/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/SOUL665/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String Matching
 |  |
 | ------- |
@@ -364,6 +365,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOUL665/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/SOUL665/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/SOUL665/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Sorting
 |  |
 | ------- |
@@ -520,6 +522,7 @@
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/SOUL665/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Quicksort
 |  |
 | ------- |
