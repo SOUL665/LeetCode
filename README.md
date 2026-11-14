@@ -66,6 +66,7 @@
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/SOUL665/LeetCode/tree/master/0896-monotonic-array) |
 | [0999-available-captures-for-rook](https://github.com/SOUL665/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [1046-last-stone-weight](https://github.com/SOUL665/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/SOUL665/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1146-snapshot-array](https://github.com/SOUL665/LeetCode/tree/master/1146-snapshot-array) |
@@ -505,6 +506,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SOUL665/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/SOUL665/LeetCode/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SOUL665/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-last-stone-weight](https://github.com/SOUL665/LeetCode/tree/master/1046-last-stone-weight) |
 ## Eulerian Circuit
 |  |
 | ------- |
