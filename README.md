@@ -73,6 +73,7 @@
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SOUL665/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1250-check-if-it-is-a-good-array](https://github.com/SOUL665/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SOUL665/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SOUL665/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -121,6 +122,7 @@
 | [0809-expressive-words](https://github.com/SOUL665/LeetCode/tree/master/0809-expressive-words) |
 | [0826-most-profit-assigning-work](https://github.com/SOUL665/LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0925-long-pressed-name](https://github.com/SOUL665/LeetCode/tree/master/0925-long-pressed-name) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SOUL665/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [0888-fair-candy-swap](https://github.com/SOUL665/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1146-snapshot-array](https://github.com/SOUL665/LeetCode/tree/master/1146-snapshot-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SOUL665/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SOUL665/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/SOUL665/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1847-closest-room](https://github.com/SOUL665/LeetCode/tree/master/1847-closest-room) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/SOUL665/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -364,6 +367,7 @@
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1146-snapshot-array](https://github.com/SOUL665/LeetCode/tree/master/1146-snapshot-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SOUL665/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SOUL665/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SOUL665/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -394,6 +398,7 @@
 | [1122-relative-sort-array](https://github.com/SOUL665/LeetCode/tree/master/1122-relative-sort-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SOUL665/LeetCode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SOUL665/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SOUL665/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SOUL665/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-reducing-dishes](https://github.com/SOUL665/LeetCode/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SOUL665/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
